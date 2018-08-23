@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.deps.json
+/home/ubuntu/workspace/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.runtimeconfig.json
+/home/ubuntu/workspace/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.runtimeconfig.dev.json
+/home/ubuntu/workspace/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.dll
+/home/ubuntu/workspace/ControlFlow/bin/Debug/netcoreapp2.0/ControlFlow.pdb
+/home/ubuntu/workspace/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.AssemblyInfo.cs
+/home/ubuntu/workspace/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.dll
+/home/ubuntu/workspace/ControlFlow/obj/Debug/netcoreapp2.0/ControlFlow.pdb
